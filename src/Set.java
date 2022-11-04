@@ -12,6 +12,8 @@ public class Set {
 		
 		
 		
+		/* afgd */
+		
 		Iterator<Integer> it = abc.iterator();
 		
 		
