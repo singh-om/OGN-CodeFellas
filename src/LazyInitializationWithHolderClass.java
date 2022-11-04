@@ -15,5 +15,5 @@ public class LazyInitializationWithHolderClass {
 		return RegistoryHolder.Instance;
 	}
 	
-
+	/* Local Changes */
 }
