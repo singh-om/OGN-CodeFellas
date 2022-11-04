@@ -1,5 +1,6 @@
 package Practice;
 
+/* Comment */
 public class LazySignletonWTS {
 	
 	private static LazySignletonWTS Instance = null;
