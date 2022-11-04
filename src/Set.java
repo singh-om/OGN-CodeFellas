@@ -10,17 +10,8 @@ public class Set {
 		HashSet<Integer> abc = new HashSet<>();
 		
 		/* new added code */
-		abc.add(3123);
-		
-		abc.add(125);
-		abc.add(121);
-		
-		
-		abc.add(123);
-		abc.add(124);
-		
-		abc.add(125);
-		abc.add(121);
+		abc.add(null);
+		abc.add(21312);
 		
 		
 		
