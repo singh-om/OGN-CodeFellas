@@ -2,6 +2,7 @@ package Practice;
 
 public class LazyInitializationWithHolderClass {
 	
+	/* new changes */
 
 	private static class RegistoryHolder{
 		static LazyInitializationWithHolderClass Instance = new LazyInitializationWithHolderClass();
