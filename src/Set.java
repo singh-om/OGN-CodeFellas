@@ -9,8 +9,7 @@ public class Set {
 
 		HashSet<Integer> abc = new HashSet<>();
 		
-		abc.add(123);
-		abc.add(124);
+		
 		
 		abc.add(125);
 		abc.add(121);
