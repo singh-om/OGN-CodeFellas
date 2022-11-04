@@ -9,8 +9,12 @@ public class Set {
 
 		HashSet<Integer> abc = new HashSet<>();
 		
+		/* new added code */
+		abc.add(null);
+		abc.add(21312);
 		
 		
+			
 		
 		/* afgd */
 		
