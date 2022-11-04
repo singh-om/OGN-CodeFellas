@@ -11,7 +11,8 @@ public class Set {
 		
 		abc.add(123);
 		abc.add(124);
-		
+		/* new added code */
+		abc.add(3123);
 		abc.add(125);
 		abc.add(121);
 		
