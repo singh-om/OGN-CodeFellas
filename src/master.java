@@ -1,7 +1,9 @@
 public class RightTrianglePattern   
 {   
 public static void main(String args[])   
-{   
+{
+	
+/* here declaring variables */	
 int i, j, row=6;   
 
 for(i=0; i<row; i++)   
