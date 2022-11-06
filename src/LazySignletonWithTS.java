@@ -20,6 +20,6 @@ public class LazySignletonWithTS {
 		return Instance;
 	}
 	
-	/* adas*/
+	/*s*/
 
 }

@@ -3,6 +3,11 @@ public class RightTrianglePattern
 public static void main(String args[])   
 {
 	
+<<<<<<< Upstream, based on origin/master
+/* adgf afdga dfg fadgdfg ad here declaring variables */	
+=======
+/* s */	
+>>>>>>> 4d3897f new changes in master
 int i, j, row=6;   
 /* who*/
 for(i=0; i<row; i++)   

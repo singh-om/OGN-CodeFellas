@@ -16,5 +16,5 @@ public class LazySignletonWTS {
 		return Instance;
 	}
 
-	/* agf */
+	/* s */
 }
