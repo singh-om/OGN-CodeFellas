@@ -10,13 +10,13 @@ public class Set {
 		HashSet<Integer> abc = new HashSet<>();
 		
 		/* new added code */
-		abc.add(null);
-		abc.add(21312);
+		abc.add(1231);
+		abc.add(434);
 		
 		
 			
 		
-		/* afgd */
+		/* afgd  sdfs */
 		
 		Iterator<Integer> it = abc.iterator();
 		
