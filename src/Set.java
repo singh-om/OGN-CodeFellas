@@ -13,9 +13,13 @@ public class Set {
 		abc.add(23131);
 		abc.add(123112);
 		abc.add(1232151);
+		abc.add(1231);
+		abc.add(434);
+		
+		
 			
 		
-		/* afgd */
+		/* afgd  sdfs */
 		
 		Iterator<Integer> it = abc.iterator();
 		
