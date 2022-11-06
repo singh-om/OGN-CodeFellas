@@ -20,6 +20,6 @@ public class LazySignletonWithTS {
 		return Instance;
 	}
 	
-	/*fds w*/
+	/* We are the champians*/
 
 }
