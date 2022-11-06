@@ -4,7 +4,7 @@ public class SignletonClass {
 
 	public static void main(String[] args) {
 	
-		/* Eager Singleton : So It create class as soon as class is loaded */
+		/* 111 Eager Singleton : So It create class as soon as class is loaded */
 		
 		SingleEagerImplementation obj1 = SingleEagerImplementation.getInstance();
 		SingleEagerImplementation obj2 = SingleEagerImplementation.getInstance();
