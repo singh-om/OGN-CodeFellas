@@ -3,9 +3,9 @@ public class RightTrianglePattern
 public static void main(String args[])   
 {
 	
-/* here declaring variables */	
+/* adgf afdga dfg fadgdfg ad here declaring variables */	
 int i, j, row=6;   
-
+/* who*/
 for(i=0; i<row; i++)   
 {   
 
