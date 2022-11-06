@@ -16,4 +16,5 @@ public class LazySignletonWTS {
 		return Instance;
 	}
 
+	/* We are here */
 }
