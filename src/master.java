@@ -1,1 +1,1 @@
-This is editable code.
+This is the code priority.
